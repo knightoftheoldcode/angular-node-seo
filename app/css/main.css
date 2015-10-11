@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans);
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+  color: #34282c;
+  background-color: #fdfdfd;
+  font-size: 16px;
+}
+
+.brand {
+  color: gray;
+  text-align: center;
+  font-size: 2em;
+}
+
+.brand a {
+  color: gray;
+}
+
+.navlinks {
+  color: gray;
+  text-align: center;
+}
+
+a {
+  color: #c0392b;
+}
+
+.post-date {
+  text-align: right;
+}
